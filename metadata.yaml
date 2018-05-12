@@ -1,0 +1,45 @@
+_repo: Dave-Porter-in-the-South-Seas--or-The-Strange-Cruise-of-the-Stormy-Petrel_34347
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hazelton, I. B. (Isaac Brewster)
+    alias: Hazelton, Isaac Brewster
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '36968'
+    url: http://www.gutenberg.org/2009/agents/36968
+covers:
+- cover_type: archival
+  image_path: 34347-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2010-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ocean travel -- Juvenile fiction'
+- !lcsh 'Father and child -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Oceania -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Missing persons -- Juvenile fiction'
+- !lcsh 'Sea stories'
+title: Dave Porter in the South Seas; or, The Strange Cruise of the Stormy Petrel
+url: http://www.gutenberg.org/ebooks/34347
